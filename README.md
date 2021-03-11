@@ -3,11 +3,14 @@
 Flutter Starter Kit
 
 ## Getting Started
-
-# Change App ID
+1. Setup Environment - https://flutter.dev/docs/get-started/install
+2. git clone https://github.com/kelvin960606/flstart.git
+3. cd flstart
+4. flutter run
+### Change App ID
 Replace all `com.example.flstart`
 
-# File Structure
+### File Structure
 - lib
     - `Controller` Reactive data controller
     - `Core` App main core
