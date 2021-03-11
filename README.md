@@ -12,6 +12,11 @@ Replace all `com.example.flstart`
 
 ### File Structure
 - lib
+    - `Assets`
+        - `Img` images
+        - `Json` local json file
+    - `Constant` reusable constant value
+        - `styles.dart` resuable styling
     - `Controller` Reactive data controller
     - `Core` App main core
         - `router.dart` Routered pages list
