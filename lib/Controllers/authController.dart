@@ -26,7 +26,7 @@ class AuthController extends GetxController {
   }
 
   void deleteToken() async {
-    token.nil();
+    token.value = '';
     box.remove('token');
     await prefs.remove('token');
   }

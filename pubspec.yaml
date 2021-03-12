@@ -23,10 +23,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get: ^3.26.0
+  get:
   get_storage:
-  shared_preferences: ^2.0.4
-  dio: ^3.0.10
+  shared_preferences:
+  dio:
+  clay_containers:
+  animated_text_kit:
+  google_fonts:
+  animate_do:
 
 
   # The following adds the Cupertino Icons font to your application.
